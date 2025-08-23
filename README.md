@@ -85,5 +85,6 @@ Predictive analytics using Machine Learning
 Advanced storytelling with Power BI bookmarks
 
 👨‍💻 Author : Charan
+
 🌐 LinkedIn : www.linkedin.com/in/charan-teja-928265269
 
