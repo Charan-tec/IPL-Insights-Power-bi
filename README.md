@@ -1,7 +1,6 @@
+Project Title :IPL Analysis Dashboard (2008 - 2025) 📊
 
-🏏 Project Title :IPL Analysis Dashboard (2008 - 2025) 📊
-
-📌 Introduction
+ Introduction
 
 This Power BI dashboard provides an interactive analysis of the Indian Premier League (IPL) from 2008 to 2025. It highlights team performances, player achievements, and season-wise statistics with a visually appealing design.
 
@@ -9,7 +8,7 @@ This Power BI dashboard provides an interactive analysis of the Indian Premier L
 
 
 
-📂 Dataset
+ Dataset
 
 Source: Kaggle IPL Dataset 
 
@@ -21,24 +20,24 @@ Player stats (runs, wickets, strike rate, economy rate)
 Team performance history
 
 
-🚀 Features
+Features
 
-🏆 Champion & Runner-up details (Season-wise)
+ Champion & Runner-up details (Season-wise)
 
-🔢 Overall Stats – Total 6s, 4s, Matches, Teams, Centuries, Half-Centuries, Venues
+ Overall Stats – Total 6s, 4s, Matches, Teams, Centuries, Half-Centuries, Venues
 
-🎯 Orange Cap & Purple Cap Leaders – Top run-scorer & wicket-taker of the season
+ Orange Cap & Purple Cap Leaders – Top run-scorer & wicket-taker of the season
 
-🔥 Most 4s & 6s by players
+ Most 4s & 6s by players
 
-📈 Points Table – Matches Played, Wins, Losses, NR, and Total Points
+ Points Table – Matches Played, Wins, Losses, NR, and Total Points
 
-🎨 Clean and interactive visual design with team logos & player images
-
-
+ Clean and interactive visual design with team logos & player images
 
 
-📊 Dashboard Insights
+
+
+ Dashboard Insights
 
 Season-wise winner trends
 
@@ -49,7 +48,7 @@ Venue-wise analysis (home advantage & batting/bowling friendly grounds)
 Head-to-head team comparison
 
 
-🚀 How to Use
+How to Use
 
 1. Download the .pbix file from this repo.
 
@@ -63,7 +62,7 @@ Head-to-head team comparison
 4. Explore the dashboard with filters and slicers.
 
 
-📸 Screenshots
+ Screenshots
 
 <img width="1358" height="730" alt="image" src="https://github.com/user-attachments/assets/50fa6216-85bf-41d7-bd17-a393e25488c6" />
 
@@ -76,7 +75,7 @@ Power Query (Data Cleaning & Transformation)
 Excel / CSV (Raw dataset)
 
 
-📌 Future Enhancements
+ Future Enhancements
 
 Live data integration using web APIs
 
