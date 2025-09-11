@@ -85,5 +85,5 @@ Advanced storytelling with Power BI bookmarks
 
 👨‍💻 Author : Charan
 
-🌐 LinkedIn : www.linkedin.com/in/charan-teja-928265269
+🌐 LinkedIn : www.linkedin.com/in/charan-teja93
 
